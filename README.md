@@ -1,4 +1,4 @@
 SwiftSillynameExample
 =====================
 
-Stupid little example app of an app built in Swift
+Example of a super simple app for IOS written in apples new swift language. 
